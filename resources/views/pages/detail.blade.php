@@ -97,7 +97,7 @@
                         <div class="col-12 col-lg-8">
                             <ul class="list-unstyled">
                                 <li class="media">
-                                    <img src="{{ aset('images/icons-testimonial-1.png') }}" alt=""
+                                    <img src="{{ asset('images/icons-testimonial-1.png') }}" alt=""
                                         class="mr-3 rounded-circle" />
                                     <div class="media-body">
                                         <h5 class="mt-2 mb-1">Hazza Risky</h5>
